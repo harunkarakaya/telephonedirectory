@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.Entities\bin\Debug\TelefonRehberi.Entities.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.Entities\bin\Debug\TelefonRehberi.Entities.pdb
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.pdb
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.Entities\bin\Debug\TelefonRehberi.Entities.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.Entities\bin\Debug\TelefonRehberi.Entities.pdb
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.csprojAssemblyReference.cache
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.csproj.CoreCompileInputs.cache
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.pdb

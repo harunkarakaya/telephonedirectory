@@ -1,0 +1,53 @@
+﻿@model TelefonRehberi.Entities.Admin
+
+@{
+    ViewBag.Title = "Bilgileri Düzenle";
+}
+
+<h2><br /></h2>
+<style type="text/css">
+    .validation-summary-errors{
+        color:red;
+    }
+
+    .validation-summary-errors ul{
+        list-style-type:none;
+    }
+</style>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="row">
+        <div class="col-md-4 col-md-offset-4 col-sm-4 col-sm-offset-4">
+
+            <div class="form-horizontal">
+                <h3>@ViewBag.Title</h3>
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.HiddenFor(model => model.ID)
+                    @Html.LabelFor(model => model.KullaniciAdi, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.KullaniciAdi, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.KullaniciAdi, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Sifre, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Sifre, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Sifre, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Kaydet" class="btn btn-success" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

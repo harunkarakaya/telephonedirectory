@@ -1,0 +1,110 @@
+﻿@using TelefonRehberi.Entities
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Shop Homepage - Start Bootstrap Template</title>
+    <link href="~/Content/shop-homepage.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-3.2.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+    @{ 
+        Admin admin = null;
+
+        if(Session["login"] != null)
+        {
+            admin = Session["login"] as Admin;
+        }
+    }
+
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" ><span class="glyphicon glyphicon-phone-alt"></span> Telefon Rehberi</a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="/Home/PublicUI"><span class="glyphicon glyphicon-user"></span> Şirket Çalışanları</a>
+                    </li>
+                    @if (admin != null)
+                    {
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                <span class="glyphicon glyphicon-wrench"></span> Yönetim <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+
+                                <li>
+                                    <a href="/Calisan/Index"><span class="glyphicon glyphicon-user"></span> Çalışanları Yönet</a>
+                                </li>
+                                <li>
+                                    <a href="/Departman/Index"><span class="glyphicon glyphicon-list"></span> Departmanları Yönet</a>
+                                </li>
+
+                            </ul>
+                        </li>
+                    }
+                    
+
+                </ul>
+                        <ul class="nav navbar-nav navbar-right">
+
+                            @if (admin != null)
+                            {
+                                <li class="dropdown">
+                                    <a href="/Home/AdminBilgileriGoster" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                        <span class="glyphicon glyphicon-user"></span> @admin.KullaniciAdi<span class="caret"></span>
+                                    </a>
+                                    <ul class="dropdown-menu">
+
+                                        <li>
+                                            <a href="/Home/AdminBilgileriGoster"><span class="glyphicon glyphicon-user"></span> Hesap Bilgilerini Göster</a>
+                                        </li>
+
+                                        <li>
+                                            <a href="/Home/AdminBilgileriDuzenle"><span class="glyphicon glyphicon-pencil"></span> Bilgileri Düzenle</a>
+                                        </li>
+
+                                    </ul>
+                                </li>
+                            }
+                            else
+                            { 
+                                <li>
+                                    <a href="/Home/Login"><span class="glyphicon glyphicon-log-in"></span> Admin Girişi</a>
+                                </li>
+                            }
+                            @if (admin != null)
+                            {
+                                <li>
+                                    <a href="/Home/Logout"><span class="glyphicon glyphicon-log-out"></span> Çıkış Yap</a>
+                                </li>
+                            }
+                           
+                        </ul>
+            </div>
+
+
+        </div>
+
+    </nav>
+
+    @RenderBody()
+</body>
+</html>

@@ -1,0 +1,77 @@
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.WebApp.dll.config
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.WebApp.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.WebApp.pdb
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Helpers.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Mvc.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Razor.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Webpages.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Razor.xml
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Webpages.xml
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Helpers.xml
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Mvc.xml
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\obj\Debug\TelefonRehberi.WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\obj\Debug\TelefonRehberi.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\obj\Debug\TelefonRehberi.WebApp.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\obj\Debug\TelefonRehberi.WebApp.pdb
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\EntityFramework.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.BusinessLayer.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.Entities.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.DataAccessLayer.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.BusinessLayer.pdb
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.BusinessLayer.dll.config
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.Entities.pdb
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\EntityFramework.xml
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.DataAccessLayer.pdb
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.DataAccessLayer.dll.config
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\FakeData.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\FakeData.pdb
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.Core.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.Core.pdb
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.WebApp.dll.config
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.WebApp.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.WebApp.pdb
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\EntityFramework.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\EntityFramework.SqlServer.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Helpers.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Mvc.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Razor.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Webpages.Deployment.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Webpages.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Webpages.Razor.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.BusinessLayer.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.Core.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.Entities.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.DataAccessLayer.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\FakeData.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.BusinessLayer.pdb
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.BusinessLayer.dll.config
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.Core.pdb
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.Entities.pdb
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\EntityFramework.xml
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\EntityFramework.SqlServer.xml
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Razor.xml
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Webpages.xml
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Webpages.Deployment.xml
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Webpages.Razor.xml
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Helpers.xml
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\System.Web.Mvc.xml
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.DataAccessLayer.pdb
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\TelefonRehberi.DataAccessLayer.dll.config
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\bin\FakeData.pdb
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\obj\Debug\TelefonRehberi.WebApp.csprojAssemblyReference.cache
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\obj\Debug\TelefonRehberi.WebApp.csproj.CoreCompileInputs.cache
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\obj\Debug\TelefonRehberi.WebApp.csproj.CopyComplete
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\obj\Debug\TelefonRehberi.WebApp.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.WebApp\obj\Debug\TelefonRehberi.WebApp.pdb

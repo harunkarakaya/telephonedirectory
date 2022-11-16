@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.Core\bin\Debug\TelefonRehberi.Core.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.Core\bin\Debug\TelefonRehberi.Core.pdb
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.Core\obj\Debug\TelefonRehberi.Core.csprojResolveAssemblyReference.cache
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.Core\obj\Debug\TelefonRehberi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.Core\obj\Debug\TelefonRehberi.Core.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.Core\obj\Debug\TelefonRehberi.Core.pdb
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.Core\bin\Debug\TelefonRehberi.Core.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.Core\bin\Debug\TelefonRehberi.Core.pdb
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.Core\obj\Debug\TelefonRehberi.Core.csprojAssemblyReference.cache
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.Core\obj\Debug\TelefonRehberi.Core.csproj.CoreCompileInputs.cache
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.Core\obj\Debug\TelefonRehberi.Core.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.Core\obj\Debug\TelefonRehberi.Core.pdb

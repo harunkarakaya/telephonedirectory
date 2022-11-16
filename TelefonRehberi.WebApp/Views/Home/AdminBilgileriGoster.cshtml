@@ -1,0 +1,40 @@
+﻿@model TelefonRehberi.Entities.Admin
+
+@{
+    ViewBag.Title = "Admin Bilgileri";
+}
+
+<h2><br /></h2>
+
+<div class="row">
+    <div class="col-md-4 col-md-offset-4 col-sm-4 col-sm-offset-4">
+        <h3 class="text-info">@ViewBag.Title</h3>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.KullaniciAdi)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.KullaniciAdi)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Sifre)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Sifre)
+            </dd>
+
+        </dl>
+        <p>
+            <div class="col-md-2 col-md-push-3">
+                <a href="/Home/AdminBilgileriDuzenle" class="btn btn-warning btn-sm"><span class="glyphicon glyphicon-edit"> Düzenle</span></a>
+
+            </div>
+        </p>
+    </div>
+
+</div>
+

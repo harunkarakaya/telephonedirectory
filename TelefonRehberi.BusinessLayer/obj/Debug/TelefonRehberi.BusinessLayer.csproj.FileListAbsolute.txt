@@ -1,0 +1,41 @@
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.BusinessLayer.dll.config
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.BusinessLayer.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.BusinessLayer.pdb
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.DataAccessLayer.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.Entities.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.DataAccessLayer.pdb
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.DataAccessLayer.dll.config
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.Entities.pdb
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\obj\Debug\TelefonRehberi.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\obj\Debug\TelefonRehberi.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\obj\Debug\TelefonRehberi.BusinessLayer.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\obj\Debug\TelefonRehberi.BusinessLayer.pdb
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.Core.dll
+C:\Users\Harun\source\repos\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.Core.pdb
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.BusinessLayer.dll.config
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.BusinessLayer.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.BusinessLayer.pdb
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.Core.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.DataAccessLayer.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.Entities.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\FakeData.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.Core.pdb
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.DataAccessLayer.pdb
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.DataAccessLayer.dll.config
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\TelefonRehberi.Entities.pdb
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\bin\Debug\FakeData.pdb
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\obj\Debug\TelefonRehberi.BusinessLayer.csprojAssemblyReference.cache
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\obj\Debug\TelefonRehberi.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\obj\Debug\TelefonRehberi.BusinessLayer.csproj.CopyComplete
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\obj\Debug\TelefonRehberi.BusinessLayer.dll
+D:\Yazılım\Githuba atıalcak\TelefonRehberiSolution\TelefonRehberi.BusinessLayer\obj\Debug\TelefonRehberi.BusinessLayer.pdb

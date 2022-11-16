@@ -1,0 +1,70 @@
+﻿@model IEnumerable<TelefonRehberi.Entities.Calisan>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div class="container">
+
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
+            <div class="row">
+                <a href="/Calisan/Create" class="btn btn-primary btn-sm"><span class="glyphicon glyphicon-plus"> Çalışan Ekle</span></a>
+            </div>
+            <br />
+            <table class="table table-striped">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Departman.DepartmanAdi)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Ad)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Soyad)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TelefonNumarası)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Yonetici)
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Departman.DepartmanAdi)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Ad)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Soyad)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TelefonNumarası)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Yonetici)
+                            </td>
+                            <td>
+
+                                <a href="/Calisan/Edit/@item.ID" class="btn btn-warning btn-sm"><span class="glyphicon glyphicon-edit"></span> Düzenle</a>
+                                <a href="/Calisan/Details/@item.ID" class="btn btn-primary btn-sm"><span class="glyphicon glyphicon-list"></span> Detaylar</a>
+                                <a href="/Calisan/Delete/@item.ID" class="btn btn-danger btn-sm"><span class="glyphicon glyphicon-trash"></span></a>
+
+                            </td>
+                        </tr>
+                }
+
+            </table>
+
+        </div>
+    </div>
+
+</div>

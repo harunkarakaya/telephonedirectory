@@ -1,0 +1,44 @@
+﻿@using TelefonRehberi.Entities
+@model List<Calisan>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/Content/SearchBox.css" rel="stylesheet" />
+<div class="row">
+    <div class="col-md-6 col-md-offset-3">
+        <br />
+    </div>
+    <div class="row">
+        <br /><br /><br /><br />
+    </div>
+</div>  
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+            <table class="table table-striped">
+                <thead class="thead-inverse">
+                    <tr>
+                        <th>Ad</th>
+                        <th>Telefon Numarası</th>
+                        <th>Çalışan Detayları</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (Calisan clsn in Model)
+                    {
+                        <tr>
+                            <td>@clsn.Ad</td>
+                            <td>@clsn.TelefonNumarası</td>
+                            <td><a href="/Home/PublicUIDetails/@clsn.ID" class="btn btn-primary btn-sm"><span class="glyphicon glyphicon-zoom-in"></span> Detayları</a></td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

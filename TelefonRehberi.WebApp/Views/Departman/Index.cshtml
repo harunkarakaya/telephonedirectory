@@ -1,0 +1,41 @@
+﻿@model IEnumerable<TelefonRehberi.Entities.Departman>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+<div class="row">
+    <div class="col-md-3 col-md-offset-4 col-sm-3 col-sm-offset-4">
+        <div class="row">
+            <a href="/Departman/Create" class="btn btn-primary btn-sm"><span class="glyphicon glyphicon-plus"> Departman Ekle</span></a>
+            <br />
+        </div>
+        <br />
+        <table class="table table-striped">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.DepartmanAdi)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.DepartmanAdi)
+        </td>
+        <td>
+
+
+            <a href="/Departman/Edit/@item.ID" class="btn btn-warning btn-sm"><span class="glyphicon glyphicon-edit"></span> Düzenle</a>
+            <a href="/Departman/Delete/@item.ID" class="btn btn-danger btn-sm"><span class="glyphicon glyphicon-trash"></span></a>
+        </td>
+    </tr>
+}
+
+        </table>
+    </div>
+</div>
